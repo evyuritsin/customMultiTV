@@ -1,0 +1,2 @@
+<span>[+caption+]</span>
+<textarea id="cmtv[+rand+]" class="form-control cmtv_input" name="cmtv[+rand+]" tvtype="[+type+]" valueInput="[+value+]" fieldtable="[+field+]" cols="40" rows="5" placeholder="[+caption+]" onchange="documentDirty=true;" style="width:100%">[+value+]</textarea>
